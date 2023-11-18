@@ -28,7 +28,7 @@ Whether you're here for the code, the blog, or just to connect with a fellow tec
 6. [Top List Reads](https://top-list-reads.blogspot.com/) - Listicles about all topics.
 7. [Linktree Ourmaster](https://linktr.ee/ourmaster) - A complete list of profiles and web pages.
 8. [Wordpress Ourmaster](https://ourmaster.wordpress.com/) - Similar blog on Wordpress.
-9. [Vibe Reads](https://sites.google.com/view/vibe-reads) - Interesting posts and articles that create vibe.
+9. [Vibe Reads](https://sites.google.com/view/vibe-reads) - Interesting posts and articles that creates vibe.
 10. [Postheaven blog](https://postheaven.net/vibereads) - List of articles at PostHeaven.
 11. [Mataroa blog](https://ourmaster.mataroa.blog/) - Similar blog on the Mataroa blog platform.
 12. [Diigo threads](https://www.diigo.com/user/ourmaster) - List of marked pages at Diigo.

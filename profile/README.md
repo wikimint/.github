@@ -1,7 +1,7 @@
 # Selvakumaran Krishnan
 *Founder of Wikimint Magazine | Blogger | Full-Stack Developer*
 
-👋 Hello there! I'm Selvakumaran Krishnan, a passionate individual with a love for technology, blogging, and creating meaningful digital experiences. As the founder of Wikimint Magazine, I've embarked on a journey to cultivate a space where knowledge blooms and ideas flourish.
+👋 Hello there! I'm Selvakumaran Krishnan, a passionate software developer with a love for technology, blogging, and creating meaningful digital experiences. As the founder of Wikimint Magazine, I've embarked on a journey to cultivate a space where knowledge blooms and ideas flourish.
 
 ## 🚀 About Me
 I wear many hats in the tech world - from being a meticulous full-stack developer to curating insightful content for my blogging endeavors. My journey in the vast realm of technology has been nothing short of exhilarating. I thrive on challenges, and my commitment to staying at the forefront of innovation is reflected in both my code and my words.

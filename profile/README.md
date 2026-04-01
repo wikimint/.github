@@ -1,6 +1,7 @@
 ![Org Stars](https://img.shields.io/github/stars/wikimint?style=social)
-![Org Forks](https://img.shields.io/github/forks/wikimint?style=social)
-
+![No Tracking](https://img.shields.io/badge/Tracking-None-success)
+![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-blue)
+![Privacy First](https://img.shields.io/badge/Privacy-First-important)
 # Wikimint
 
 **Wikimint** is a collection of open-source tools, web applications, datasets, and developer utilities focused on web development, digital marketing, cybersecurity, and business productivity.
@@ -24,6 +25,8 @@ Repositories in this organization are grouped into the following categories:
 ![Cybersecurity](https://img.shields.io/badge/Security-Privacy%20Focused-red)
 ![Datasets](https://img.shields.io/badge/Datasets-Open-purple)
 ![Web Development](https://img.shields.io/badge/Web%20Tools-JavaScript-blue)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Growth-orange)
+
 
 ### 🌐 Web Development Tools
 

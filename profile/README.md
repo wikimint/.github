@@ -21,7 +21,7 @@ To build practical, lightweight, and privacy-friendly tools that solve real-worl
 | Project          | Category              | Description                          |
 |------------------|----------------------|--------------------------------------|
 | [wmCaptcha](https://github.com/wikimint/wm-captcha)| Web Security         | Lightweight CAPTCHA protection tool  |
-| [wm-cookie-consent](https://github.com/wikimint/wm-cookie-consent)| Privacy & Compliance | Cookie consent solution              |
+| [WM Cookie Consent](https://github.com/wikimint/wm-cookie-consent)| Privacy & Compliance | Cookie consent solution              |
 | [Datasets](https://github.com/wikimint/datasets)| Open Data            | JSON & CSV datasets for developers   |
 
 ---

@@ -16,6 +16,16 @@ To build practical, lightweight, and privacy-friendly tools that solve real-worl
 
 ---
 
+## 📦 Featured Projects
+
+| Project          | Category              | Description                          |
+|------------------|----------------------|--------------------------------------|
+| [wmCaptcha](https://github.com/wikimint/wm-captcha)| Web Security         | Lightweight CAPTCHA protection tool  |
+| [wm-cookie-consent](https://github.com/wikimint/wm-cookie-consent)| Privacy & Compliance | Cookie consent solution              |
+| [Datasets](https://github.com/wikimint/datasets)| Open Data            | JSON & CSV datasets for developers   |
+
+---
+
 ## 🧩 Product Categories
 
 Repositories in this organization are grouped into the following categories:
@@ -74,18 +84,6 @@ Public datasets designed for developers, researchers, and AI applications. All d
 ### 🛠️ Productivity & Business Utilities
 
 Practical tools that help automate workflows and improve day-to-day productivity for individuals and teams.
-
----
-
-## 📦 Featured Projects
-
-### wmCaptcha
-
-A lightweight, privacy-friendly CAPTCHA alternative that works without third-party tracking or external dependencies.
-
-### wm-cookie-consent
-
-A customizable cookie consent solution designed for GDPR and privacy compliance, built with performance and developer experience in mind.
 
 ---
 

@@ -4,7 +4,7 @@
 ![Privacy First](https://img.shields.io/badge/Privacy-First-important)
 # Wikimint
 
-**Wikimint** is a collection of open-source tools, web applications, datasets, and developer utilities focused on web development, digital marketing, cybersecurity, and business productivity.
+**Wikimint** is a collection of open-source tools, web applications, datasets, and developer utilities focused on web development, digital marketing, cybersecurity, and business productivity founded by [Selvakumaran Krishnan](https://github.com/selvaklnc).
 
 This GitHub organization hosts all Wikimint products, categorized by domain so developers, businesses, and creators can easily discover, use, and contribute to them.
 

@@ -23,6 +23,7 @@ To build practical, lightweight, and privacy-friendly tools that solve real-worl
 | [wmCaptcha](https://github.com/wikimint/wm-captcha)| Web Security         | Lightweight CAPTCHA protection tool  |
 | [WM Cookie Consent](https://github.com/wikimint/wm-cookie-consent)| Privacy & Compliance | Cookie consent solution              |
 | [Datasets](https://github.com/wikimint/datasets)| Open Data            | JSON & CSV datasets for developers   |
+| [CS Minify Unminify](https://github.com/wikimint/css-minify-unminify)| Web Development | Optimize CSS files for website performance|
 
 ---
 

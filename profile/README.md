@@ -2,6 +2,7 @@
 ![No Tracking](https://img.shields.io/badge/Tracking-None-success)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-Zero-blue)
 ![Privacy First](https://img.shields.io/badge/Privacy-First-important)
+
 # Wikimint
 
 **Wikimint** is a collection of open-source tools, web applications, datasets, and developer utilities focused on web development, digital marketing, cybersecurity, and business productivity founded by [Selvakumaran Krishnan](https://github.com/selvaklnc).

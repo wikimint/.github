@@ -11,13 +11,13 @@ This GitHub organization hosts all Wikimint products, categorized by domain so d
 
 ---
 
-## 🚀 Our Mission
+## Our Mission
 
 To build practical, lightweight, and privacy-friendly tools that solve real-world problems for developers, startups, marketers, and online businesses.
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 | Project          | Category              | Description                          |
 |------------------|----------------------|--------------------------------------|
@@ -28,7 +28,7 @@ To build practical, lightweight, and privacy-friendly tools that solve real-worl
 
 ---
 
-## 🧩 Product Categories
+## Product Categories
 
 Repositories in this organization are grouped into the following categories:
 
@@ -40,7 +40,7 @@ Repositories in this organization are grouped into the following categories:
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-Growth-orange)
 
 
-### 🌐 Web Development Tools
+### Web Development Tools
 
 Tools and libraries that help developers build faster, safer, and more efficient web applications.
 
@@ -51,7 +51,7 @@ Tools and libraries that help developers build faster, safer, and more efficient
 * Performance optimization tools
 * UI components
 
-### 🔒 Cybersecurity & Web Security
+### Cybersecurity & Web Security
 
 Security-focused tools designed to improve privacy, compliance, and protection against common web threats.
 
@@ -62,7 +62,7 @@ Security-focused tools designed to improve privacy, compliance, and protection a
 * Security headers and validation utilities
 * Client-side protection libraries
 
-### 📈 Digital Marketing & Growth Tools
+### Digital Marketing & Growth Tools
 
 Tools that help businesses improve visibility, engagement, and conversions online.
 
@@ -73,7 +73,7 @@ Tools that help businesses improve visibility, engagement, and conversions onlin
 * Marketing automation tools
 * Lead generation components
 
-### 🧠 Datasets & Open Data
+### Datasets & Open Data
 
 Public datasets designed for developers, researchers, and AI applications. All datasets are provided in developer-friendly formats such as JSON and CSV.
 
@@ -83,13 +83,13 @@ Public datasets designed for developers, researchers, and AI applications. All d
 * Technology and web-related data
 * AI training-friendly structured datasets
 
-### 🛠️ Productivity & Business Utilities
+### Productivity & Business Utilities
 
 Practical tools that help automate workflows and improve day-to-day productivity for individuals and teams.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each repository is:
 
@@ -101,7 +101,7 @@ This allows developers to use only the tools they need without installing unnece
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. You can help by:
 
@@ -114,7 +114,7 @@ Please read the contribution guidelines in each repository before submitting cha
 
 ---
 
-## 📜 Licensing
+## Licensing
 
 Most projects are released under permissive open-source licenses and few are released under propreitary license. Refer to each repository’s LICENSE file for details.
 
@@ -122,14 +122,14 @@ Most projects are released under permissive open-source licenses and few are rel
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 ---
 
-## 🌍 Links
+## Links
 
 [![Website](https://img.shields.io/badge/Website-wikimint.com-blue)](https://www.wikimint.com)
 [![Products](https://img.shields.io/badge/Products-Catalog-green)](https://www.wikimint.com/products)
 
 ---
 
-## ⭐ Support the Project
+## Support the Project
 
 If you find Wikimint tools useful:
 
